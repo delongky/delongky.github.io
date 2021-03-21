@@ -1,9 +1,19 @@
 h1, h2, h3, h4, h5{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bold;    
+    font-weight: bold    
+}
+
+h1{
+    font-size: 24pt;
 }
 
 h5{
     text-align: center;
-    color: '4527A0'
+    color: #424242
 }
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
