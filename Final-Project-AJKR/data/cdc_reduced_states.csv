@@ -1,0 +1,1009 @@
+Year,LocationAbbr,LocationDesc,GeographicLevel,DataSource,Class,Topic,Mortality_Rate,Gender,Race,TopicID,LocationID,Y_Lat,X_Lon
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,127.9,Overall,Asian and Pacific Islander,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,261.2,Overall,Overall,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,336.4,Male,Overall,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,190.2,Female,Overall,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,245.6,Overall,White,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,312.8,Male,White,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,176.8,Female,White,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,301.9,Overall,Black,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,392.5,Male,Black,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,212.6,Female,Black,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,172.7,Overall,Hispanic,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,198.4,Male,Hispanic,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,146.1,Female,Hispanic,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,190.6,Male,Asian and Pacific Islander,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,85.4,Female,Asian and Pacific Islander,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,434.7,Overall,American Indian and Alaskan Native,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,578.8,Male,American Indian and Alaskan Native,T2,2,64.3173,-152.571
+2017,AK,Alaska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,326.2,Female,American Indian and Alaskan Native,T2,2,64.3173,-152.571
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,362.9,Female,Black,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,112.8,Overall,Hispanic,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,134.4,Male,Hispanic,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,90.3,Female,Hispanic,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,431.3,Overall,Overall,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,546.9,Male,Overall,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,340.8,Female,Overall,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,431.3,Overall,White,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,543.1,Male,White,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,341,Female,White,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,464.5,Overall,Black,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,609.5,Male,Black,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,158.3,Overall,Asian and Pacific Islander,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,192.9,Male,Asian and Pacific Islander,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,135.1,Female,Asian and Pacific Islander,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,122,Overall,American Indian and Alaskan Native,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170.4,Male,American Indian and Alaskan Native,T2,1,32.7949,-86.8267
+2017,AL,Alabama,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,86.8,Female,American Indian and Alaskan Native,T2,1,32.7949,-86.8267
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,383.2,Female,Black,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,158.3,Overall,Hispanic,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,173.2,Male,Hispanic,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,141.6,Female,Hispanic,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,235.2,Overall,Asian and Pacific Islander,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,236.6,Male,Asian and Pacific Islander,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,225.1,Female,Asian and Pacific Islander,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,428.7,Overall,Overall,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,536.7,Male,Overall,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,339.5,Female,Overall,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,431.9,Overall,White,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,541.8,Male,White,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,340,Female,White,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,482.3,Overall,Black,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,616.8,Male,Black,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,133.8,Overall,American Indian and Alaskan Native,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,125.3,Male,American Indian and Alaskan Native,T2,5,34.8982,-92.434
+2017,AR,Arkansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,136.8,Female,American Indian and Alaskan Native,T2,5,34.8982,-92.434
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,282.4,Overall,Overall,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,367.4,Male,Overall,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,220.6,Female,Overall,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,White,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,White,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,White,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Black,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Hispanic,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,60,-14.2766,-170.36700000000002
+2017,AS,American Samoa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,60,-14.2766,-170.36700000000002
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,269.6,Overall,Overall,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,339.4,Male,Overall,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,208.9,Female,Overall,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,280.8,Overall,White,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,352.9,Male,White,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,216.2,Female,White,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,327.2,Overall,Black,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,389.2,Male,Black,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,270.9,Female,Black,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,218.1,Overall,Hispanic,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,277.2,Male,Hispanic,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170.4,Female,Hispanic,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,149.8,Overall,Asian and Pacific Islander,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,182.9,Male,Asian and Pacific Islander,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,128,Female,Asian and Pacific Islander,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,277.4,Overall,American Indian and Alaskan Native,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,385.4,Male,American Indian and Alaskan Native,T2,4,34.2921,-111.664
+2017,AZ,Arizona,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,199.8,Female,American Indian and Alaskan Native,T2,4,34.2921,-111.664
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,169.6,Male,Asian and Pacific Islander,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,91.5,Female,Asian and Pacific Islander,T2,9,41.6179,-72.7254
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,138.2,Female,White,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,534.9,Overall,Black,T2,11,38.9005,-77.0159
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,275.5,Overall,Overall,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,350.4,Male,Overall,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,214.4,Female,Overall,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,311,Overall,White,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,394.9,Male,White,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,240.5,Female,White,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,416.8,Overall,Black,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,525.5,Male,Black,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,329.7,Female,Black,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,218.5,Overall,Hispanic,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,275.8,Male,Hispanic,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,172.5,Female,Hispanic,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,168.6,Overall,Asian and Pacific Islander,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,216.9,Male,Asian and Pacific Islander,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,131.2,Female,Asian and Pacific Islander,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,316,Overall,American Indian and Alaskan Native,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,406.3,Male,American Indian and Alaskan Native,T2,6,37.2414,-119.601
+2017,CA,California,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,240.1,Female,American Indian and Alaskan Native,T2,6,37.2414,-119.601
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,701,Male,Black,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,420.6,Female,Black,T2,11,38.9005,-77.0159
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,127.1,Overall,Asian and Pacific Islander,T2,9,41.6179,-72.7254
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,243.7,Overall,Overall,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,307.7,Male,Overall,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,190.9,Female,Overall,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,247.3,Overall,White,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,312.6,Male,White,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,193.3,Female,White,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,310.5,Overall,Black,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,381.1,Male,Black,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,247.7,Female,Black,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,212.5,Overall,Hispanic,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,272.1,Male,Hispanic,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,163.4,Female,Hispanic,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,142.4,Overall,Asian and Pacific Islander,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,164.1,Male,Asian and Pacific Islander,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,126.6,Female,Asian and Pacific Islander,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,254,Overall,American Indian and Alaskan Native,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,295,Male,American Indian and Alaskan Native,T2,8,38.997,-105.54899999999999
+2017,CO,Colorado,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,216.1,Female,American Indian and Alaskan Native,T2,8,38.997,-105.54899999999999
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,276.6,Overall,Overall,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,350.3,Male,Overall,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,220.1,Female,Overall,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,282.2,Overall,White,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,357.3,Male,White,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,223.7,Female,White,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,298.8,Overall,Black,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,393.2,Male,Black,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,235.6,Female,Black,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,188.6,Overall,Hispanic,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,240.3,Male,Hispanic,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,149.4,Female,Hispanic,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,132.4,Overall,American Indian and Alaskan Native,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,9,41.6179,-72.7254
+2017,CT,Connecticut,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,9,41.6179,-72.7254
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,380.8,Overall,Overall,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,471.3,Male,Overall,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,310.3,Female,Overall,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,175.7,Overall,White,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,217.1,Male,White,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,193.7,Overall,Hispanic,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,231.1,Male,Hispanic,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,161,Female,Hispanic,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,219.5,Overall,Asian and Pacific Islander,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,352.7,Male,Asian and Pacific Islander,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,146.7,Female,Asian and Pacific Islander,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,11,38.9005,-77.0159
+2017,DC,District of Columbia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,11,38.9005,-77.0159
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,309.2,Overall,Overall,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,394.4,Male,Overall,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,239.6,Female,Overall,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,313.6,Overall,White,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,398.2,Male,White,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,243.4,Female,White,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,340.9,Overall,Black,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,454.2,Male,Black,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,256,Female,Black,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,151.8,Overall,Hispanic,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170,Male,Hispanic,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,135.9,Female,Hispanic,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,107.2,Overall,Asian and Pacific Islander,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,156,Male,Asian and Pacific Islander,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,10,38.9952,-75.5014
+2017,DE,Delaware,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,10,38.9952,-75.5014
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,303.8,Female,Hispanic,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,236.9,Overall,Asian and Pacific Islander,T2,15,20.2408,-156.326
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,280.4,Overall,Overall,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,357,Male,Overall,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,215.9,Female,Overall,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,291,Overall,White,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,372.2,Male,White,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,219.2,Female,White,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,331.3,Overall,Black,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,403.6,Male,Black,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,275.5,Female,Black,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,228.7,Overall,Hispanic,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,295.5,Male,Hispanic,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,179.7,Female,Hispanic,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,146,Overall,Asian and Pacific Islander,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,191.3,Male,Asian and Pacific Islander,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,112.2,Female,Asian and Pacific Islander,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,153.6,Overall,American Indian and Alaskan Native,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,194.7,Male,American Indian and Alaskan Native,T2,12,28.6588,-82.49700000000001
+2017,FL,Florida,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,116.4,Female,American Indian and Alaskan Native,T2,12,28.6588,-82.49700000000001
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,327.5,Male,Asian and Pacific Islander,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,165.8,Female,Asian and Pacific Islander,T2,15,20.2408,-156.326
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,247.4,Female,Overall,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,323.1,Overall,White,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,417.7,Male,White,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,248.7,Female,White,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,416.1,Overall,Black,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,498,Male,Black,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,338.1,Female,Black,T2,19,42.076,-93.5022
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,598.8,Male,Hispanic,T2,15,20.2408,-156.326
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,341.7,Overall,Overall,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,434.4,Male,Overall,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,269.4,Female,Overall,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,346.2,Overall,White,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,439.6,Male,White,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,270.2,Female,White,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,377,Overall,Black,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,489.2,Male,Black,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,299.8,Female,Black,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,129.5,Overall,Hispanic,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,159.4,Male,Hispanic,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,101.9,Female,Hispanic,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,142.5,Overall,Asian and Pacific Islander,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,177.8,Male,Asian and Pacific Islander,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,113.3,Female,Asian and Pacific Islander,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,85,Overall,American Indian and Alaskan Native,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,89.5,Male,American Indian and Alaskan Native,T2,13,32.6549,-83.4547
+2017,GA,Georgia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,83.5,Female,American Indian and Alaskan Native,T2,13,32.6549,-83.4547
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,614.6,Overall,Overall,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,782.4,Male,Overall,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,473,Female,Overall,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,White,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,White,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,White,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Black,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Hispanic,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,66,13.4431,144.77700000000002
+2017,GU,Guam,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,66,13.4431,144.77700000000002
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,246.1,Overall,Overall,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,330.8,Male,Overall,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,174.2,Female,Overall,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,260.9,Overall,White,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,323.7,Male,White,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,195.5,Female,White,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,234.5,Overall,Black,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,253.5,Male,Black,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,204.2,Female,Black,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,431.1,Overall,Hispanic,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,15,20.2408,-156.326
+2017,HI,Hawaii,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,15,20.2408,-156.326
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,154.2,Overall,Hispanic,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,175.5,Male,Hispanic,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,130.4,Female,Hispanic,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,147.5,Overall,Asian and Pacific Islander,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,206.6,Male,Asian and Pacific Islander,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,105.8,Female,Asian and Pacific Islander,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,238.4,Overall,American Indian and Alaskan Native,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,320.7,Overall,Overall,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,413.4,Male,Overall,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,19,42.076,-93.5022
+2017,IA,Iowa,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,19,42.076,-93.5022
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,192.7,Female,American Indian and Alaskan Native,T2,16,44.3858,-114.661
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,132.2,Female,Hispanic,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,151.9,Overall,Asian and Pacific Islander,T2,17,40.0644,-89.2034
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,310.5,Overall,Overall,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,387.3,Male,Overall,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,243.2,Female,Overall,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,317.9,Overall,White,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,396.6,Male,White,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,249.2,Female,White,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,230.1,Overall,Black,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,182.1,Overall,Hispanic,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,208.9,Male,Hispanic,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,151.9,Female,Hispanic,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,177.3,Overall,Asian and Pacific Islander,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,282.2,Male,Asian and Pacific Islander,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,113.5,Female,Asian and Pacific Islander,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,252.9,Overall,American Indian and Alaskan Native,T2,16,44.3858,-114.661
+2017,ID,Idaho,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,322.2,Male,American Indian and Alaskan Native,T2,16,44.3858,-114.661
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,195.5,Male,Asian and Pacific Islander,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,116.9,Female,Asian and Pacific Islander,T2,17,40.0644,-89.2034
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,401.6,Overall,White,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,512.6,Male,White,T2,22,31.0964,-92.0302
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,127.5,Overall,American Indian and Alaskan Native,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,152.4,Male,American Indian and Alaskan Native,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,110.5,Female,American Indian and Alaskan Native,T2,17,40.0644,-89.2034
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,312.3,Female,White,T2,22,31.0964,-92.0302
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,318.6,Overall,Overall,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,405.1,Male,Overall,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,250.8,Female,Overall,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,322.1,Overall,White,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,412.8,Male,White,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,250.5,Female,White,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,432.8,Overall,Black,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,557.7,Male,Black,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,343.6,Female,Black,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,167.5,Overall,Hispanic,T2,17,40.0644,-89.2034
+2017,IL,Illinois,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,207.8,Male,Hispanic,T2,17,40.0644,-89.2034
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,474.3,Overall,Black,T2,22,31.0964,-92.0302
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,18,39.9128,-86.2757
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,135.1,Female,Asian and Pacific Islander,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,409.1,Overall,American Indian and Alaskan Native,T2,20,38.4828,-98.384
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,351.5,Overall,Overall,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,450.3,Male,Overall,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,273.6,Female,Overall,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,353.3,Overall,White,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,454.9,Male,White,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,273,Female,White,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,421.3,Overall,Black,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,525.4,Male,Black,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,343.3,Female,Black,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,177.8,Overall,Hispanic,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,216.4,Male,Hispanic,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,142.1,Female,Hispanic,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,148,Overall,Asian and Pacific Islander,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,205.1,Male,Asian and Pacific Islander,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,104.8,Female,Asian and Pacific Islander,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,97.9,Overall,American Indian and Alaskan Native,T2,18,39.9128,-86.2757
+2017,IN,Indiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,18,39.9128,-86.2757
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,491.4,Male,American Indian and Alaskan Native,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,345.6,Female,American Indian and Alaskan Native,T2,20,38.4828,-98.384
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,495.4,Male,White,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,302.4,Female,White,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,408.3,Overall,Black,T2,21,37.5266,-85.29
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,308.2,Overall,Overall,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,389,Male,Overall,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,242.2,Female,Overall,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,310.7,Overall,White,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,394.2,Male,White,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,242.8,Female,White,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,401.3,Overall,Black,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,473.1,Male,Black,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,334,Female,Black,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,186.8,Overall,Hispanic,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,230.8,Male,Hispanic,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,149.6,Female,Hispanic,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,153.8,Overall,Asian and Pacific Islander,T2,20,38.4828,-98.384
+2017,KS,Kansas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,182.7,Male,Asian and Pacific Islander,T2,20,38.4828,-98.384
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,522.3,Male,Black,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,317.9,Female,Black,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,139.3,Overall,Hispanic,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,147.4,Male,Hispanic,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,128.6,Female,Hispanic,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,181.2,Overall,Asian and Pacific Islander,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,199.4,Male,Asian and Pacific Islander,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170,Female,Asian and Pacific Islander,T2,21,37.5266,-85.29
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,597.3,Male,Black,T2,22,31.0964,-92.0302
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,384.8,Overall,Overall,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,489.4,Male,Overall,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,299.9,Female,Overall,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,389,Overall,White,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,21,37.5266,-85.29
+2017,KY,Kentucky,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,21,37.5266,-85.29
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,325.4,Female,Overall,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,412.3,Overall,Overall,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,522.1,Male,Overall,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,382.3,Female,Black,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170,Overall,Hispanic,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,209.7,Male,Hispanic,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,131.2,Female,Hispanic,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,132.5,Overall,Asian and Pacific Islander,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,134.6,Male,Asian and Pacific Islander,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,127.9,Female,Asian and Pacific Islander,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,182.7,Overall,American Indian and Alaskan Native,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,232.1,Male,American Indian and Alaskan Native,T2,22,31.0964,-92.0302
+2017,LA,Louisiana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,138.3,Female,American Indian and Alaskan Native,T2,22,31.0964,-92.0302
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,259.5,Overall,Overall,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,338.6,Male,Overall,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,200.8,Female,Overall,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,271.1,Overall,White,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,356.5,Male,White,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,207.8,Female,White,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,238.9,Overall,Black,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,296.2,Male,Black,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,196.3,Female,Black,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,156.4,Overall,Hispanic,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,190.4,Male,Hispanic,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,129.8,Female,Hispanic,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,104,Overall,Asian and Pacific Islander,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,121.1,Male,Asian and Pacific Islander,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,88.9,Female,Asian and Pacific Islander,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,164.2,Overall,American Indian and Alaskan Native,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,243.2,Male,American Indian and Alaskan Native,T2,25,42.2573,-71.8024
+2017,MA,Massachusetts,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,25,42.2573,-71.8024
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,463.5,Male,White,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,291.2,Female,White,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,533,Overall,Black,T2,26,44.3371,-85.4387
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,316,Overall,Overall,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,402.3,Male,Overall,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,249.6,Female,Overall,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,317.7,Overall,White,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,402,Male,White,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,250.3,Female,White,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,366.7,Overall,Black,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,483.5,Male,Black,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,285.8,Female,Black,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,130.2,Overall,Hispanic,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,163.1,Male,Hispanic,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,104.9,Female,Hispanic,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,136.1,Overall,Asian and Pacific Islander,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,174.1,Male,Asian and Pacific Islander,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,105.6,Female,Asian and Pacific Islander,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,153.7,Overall,American Indian and Alaskan Native,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,157.8,Male,American Indian and Alaskan Native,T2,24,39.0648,-76.82
+2017,MD,Maryland,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,142.2,Female,American Indian and Alaskan Native,T2,24,39.0648,-76.82
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,284.5,Overall,Overall,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,369.6,Male,Overall,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,215.8,Female,Overall,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,287.1,Overall,White,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,373.2,Male,White,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,217.6,Female,White,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,202.3,Overall,Black,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Hispanic,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,147.9,Overall,Asian and Pacific Islander,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,238,Overall,American Indian and Alaskan Native,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,23,45.3889,-69.2349
+2017,ME,Maine,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,23,45.3889,-69.2349
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,667.9,Male,Black,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,431,Female,Black,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,257.5,Overall,Hispanic,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,319,Male,Hispanic,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,203,Female,Hispanic,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,149.4,Overall,Asian and Pacific Islander,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,181.7,Male,Asian and Pacific Islander,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,382.4,Overall,Overall,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,478.3,Male,Overall,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,304.5,Female,Overall,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,368.7,Overall,White,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,122.3,Female,Asian and Pacific Islander,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,344.8,Overall,American Indian and Alaskan Native,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,453.3,Male,American Indian and Alaskan Native,T2,26,44.3371,-85.4387
+2017,MI,Michigan,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,264.9,Female,American Indian and Alaskan Native,T2,26,44.3371,-85.4387
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,247.1,Overall,Hispanic,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,38,47.4471,-100.47
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,285.2,Overall,White,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,365.4,Male,White,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,219.4,Female,White,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,336.6,Overall,Black,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,414.2,Male,Black,T2,31,41.5228,-99.8085
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,228,Overall,Overall,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,298.3,Male,Overall,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,171.6,Female,Overall,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,228.1,Overall,White,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,299.4,Male,White,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,171.2,Female,White,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,230.6,Overall,Black,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,293.6,Male,Black,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,175.6,Female,Black,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,116.9,Overall,Hispanic,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,148.2,Male,Hispanic,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,86.5,Female,Hispanic,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,130.4,Overall,Asian and Pacific Islander,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,158.5,Male,Asian and Pacific Islander,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,106.5,Female,Asian and Pacific Islander,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,364.7,Overall,American Indian and Alaskan Native,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,460.8,Male,American Indian and Alaskan Native,T2,27,46.3159,-94.3068
+2017,MN,Minnesota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,284.6,Female,American Indian and Alaskan Native,T2,27,46.3159,-94.3068
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,263.7,Female,Black,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,135.8,Overall,Hispanic,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,178,Male,Hispanic,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,97.7,Female,Hispanic,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,115.3,Overall,Asian and Pacific Islander,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,114.5,Male,Asian and Pacific Islander,T2,31,41.5228,-99.8085
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,369,Overall,Overall,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,465.6,Male,Overall,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,291.5,Female,Overall,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,367.7,Overall,White,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,463,Male,White,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,290.4,Female,White,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,444.1,Overall,Black,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,579.1,Male,Black,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,348,Female,Black,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,157.4,Overall,Hispanic,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,213.5,Male,Hispanic,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,107,Female,Hispanic,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,135.7,Overall,Asian and Pacific Islander,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,161.4,Male,Asian and Pacific Islander,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,114.5,Female,Asian and Pacific Islander,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,158.2,Overall,American Indian and Alaskan Native,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,206.1,Male,American Indian and Alaskan Native,T2,29,38.3641,-92.4798
+2017,MO,Missouri,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,111.7,Female,American Indian and Alaskan Native,T2,29,38.3641,-92.4798
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,327.1,Overall,Overall,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,371.4,Male,Overall,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,274.5,Female,Overall,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,White,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,White,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,White,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Black,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Hispanic,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,69,15.8818,145.601
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,114.8,Female,Asian and Pacific Islander,T2,31,41.5228,-99.8085
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,69,15.8818,145.601
+2017,MP,Northern Mariana Islands,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,69,15.8818,145.601
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,141.6,Overall,Hispanic,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,157.8,Male,Hispanic,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,124.7,Female,Hispanic,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,128.8,Overall,Asian and Pacific Islander,T2,45,33.9187,-80.9014
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,213.2,Female,American Indian and Alaskan Native,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,442.5,Overall,Overall,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,562.4,Male,Overall,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,348.3,Female,Overall,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,430.3,Overall,White,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,548.4,Male,White,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,335.2,Female,White,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,480.8,Overall,Black,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,609.5,Male,Black,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,384.8,Female,Black,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,91.2,Overall,Hispanic,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,124.9,Male,Hispanic,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,58,Female,Hispanic,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,203.5,Overall,Asian and Pacific Islander,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,220,Male,Asian and Pacific Islander,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,184.7,Female,Asian and Pacific Islander,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,292.9,Overall,American Indian and Alaskan Native,T2,28,32.7577,-89.6646
+2017,MS,Mississippi,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,386.6,Male,American Indian and Alaskan Native,T2,28,32.7577,-89.6646
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,126.2,Overall,Asian and Pacific Islander,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,150.2,Male,Asian and Pacific Islander,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,108.2,Female,Asian and Pacific Islander,T2,37,35.5475,-79.4019
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,158.7,Male,Asian and Pacific Islander,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,106.8,Female,Asian and Pacific Islander,T2,45,33.9187,-80.9014
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,305.5,Overall,Overall,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,383.6,Male,Overall,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,235.8,Female,Overall,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,300.4,Overall,White,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,376.7,Male,White,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,231.7,Female,White,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Black,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,263,Overall,Hispanic,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,329,Male,Hispanic,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,205.7,Female,Hispanic,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,442,Overall,American Indian and Alaskan Native,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,605.4,Male,American Indian and Alaskan Native,T2,30,47.0332,-109.65299999999999
+2017,MT,Montana,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,323.9,Female,American Indian and Alaskan Native,T2,30,47.0332,-109.65299999999999
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,346.1,Overall,American Indian and Alaskan Native,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,432.5,Male,American Indian and Alaskan Native,T2,37,35.5475,-79.4019
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,338.6,Male,White,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,199,Female,White,T2,38,47.4471,-100.47
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,301.9,Overall,Overall,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,388.3,Male,Overall,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,235.3,Female,Overall,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,299.2,Overall,White,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,385.8,Male,White,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,230.7,Female,White,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,344.6,Overall,Black,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,449.4,Male,Black,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,272.5,Female,Black,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,116,Overall,Hispanic,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,135.5,Male,Hispanic,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,98,Female,Hispanic,T2,37,35.5475,-79.4019
+2017,NC,North Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,275,Female,American Indian and Alaskan Native,T2,37,35.5475,-79.4019
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Black,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,270.7,Overall,Overall,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,348,Male,Overall,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,207,Female,Overall,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,262.1,Overall,White,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,570.9,Overall,American Indian and Alaskan Native,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,755.2,Male,American Indian and Alaskan Native,T2,38,47.4471,-100.47
+2017,ND,North Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,435,Female,American Indian and Alaskan Native,T2,38,47.4471,-100.47
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,291.1,Overall,American Indian and Alaskan Native,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,302.3,Male,American Indian and Alaskan Native,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,282.9,Female,American Indian and Alaskan Native,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,281.5,Overall,Overall,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,359.2,Male,Overall,T2,31,41.5228,-99.8085
+2017,NE,Nebraska,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,217.7,Female,Overall,T2,31,41.5228,-99.8085
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,173.8,Male,Asian and Pacific Islander,T2,34,40.1987,-74.6768
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,291.7,Overall,Overall,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,376.2,Male,Overall,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,223.3,Female,Overall,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,297.3,Overall,White,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,384.8,Male,White,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,227,Female,White,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,226.5,Overall,Black,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,265.8,Male,Black,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,103.9,Overall,Hispanic,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,127.8,Male,Hispanic,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,72.9,Overall,Asian and Pacific Islander,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,33,43.6834,-71.5794
+2017,NH,New Hampshire,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,33,43.6834,-71.5794
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,118.3,Female,Asian and Pacific Islander,T2,34,40.1987,-74.6768
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,345,Female,Black,T2,36,42.9465,-75.512
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,316.7,Overall,Overall,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,402.4,Male,Overall,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,251.7,Female,Overall,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,336.5,Overall,White,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,430.2,Male,White,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,264.7,Female,White,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,379.1,Overall,Black,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,495.1,Male,Black,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,300.7,Female,Black,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,193.8,Overall,Hispanic,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,245.9,Male,Hispanic,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,153.1,Female,Hispanic,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,144,Overall,Asian and Pacific Islander,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,117.5,Overall,American Indian and Alaskan Native,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,34,40.1987,-74.6768
+2017,NJ,New Jersey,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,34,40.1987,-74.6768
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,256.7,Overall,Hispanic,T2,36,42.9465,-75.512
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,290.8,Overall,Overall,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,370.5,Male,Overall,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,223.3,Female,Overall,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,310.5,Overall,White,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,388.3,Male,White,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,243,Female,White,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,426.4,Overall,Black,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,491.2,Male,Black,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,364.5,Female,Black,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,263.1,Overall,Hispanic,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,342,Male,Hispanic,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,197.3,Female,Hispanic,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,169.7,Overall,Asian and Pacific Islander,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,162.8,Male,Asian and Pacific Islander,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170.4,Female,Asian and Pacific Islander,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,236,Overall,American Indian and Alaskan Native,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,342,Male,American Indian and Alaskan Native,T2,35,34.4228,-106.102
+2017,NM,New Mexico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,161,Female,American Indian and Alaskan Native,T2,35,34.4228,-106.102
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,315.6,Male,Hispanic,T2,36,42.9465,-75.512
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,384.6,Overall,Overall,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,488.7,Male,Overall,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,290.7,Female,Overall,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,423.2,Overall,White,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,537.6,Male,White,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,313.8,Female,White,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,509.7,Overall,Black,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,605.1,Male,Black,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,426.1,Female,Black,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,209.6,Overall,Hispanic,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,255.5,Male,Hispanic,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170.2,Female,Hispanic,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,241.9,Overall,Asian and Pacific Islander,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,319.2,Male,Asian and Pacific Islander,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,188.7,Female,Asian and Pacific Islander,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,338.1,Overall,American Indian and Alaskan Native,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,502.2,Male,American Indian and Alaskan Native,T2,32,39.352,-116.65
+2017,NV,Nevada,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,212.1,Female,American Indian and Alaskan Native,T2,32,39.352,-116.65
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,212.6,Female,Hispanic,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,192.2,Overall,Asian and Pacific Islander,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,235,Male,Asian and Pacific Islander,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,155.9,Female,Asian and Pacific Islander,T2,36,42.9465,-75.512
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,151.9,Male,American Indian and Alaskan Native,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,82.9,Female,American Indian and Alaskan Native,T2,39,40.2882,-82.7866
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,337.5,Overall,Overall,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,420.7,Male,Overall,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,273.1,Female,Overall,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,346.9,Overall,White,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,434.4,Male,White,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,276.7,Female,White,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,419.5,Overall,Black,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,529.6,Male,Black,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,161.9,Overall,American Indian and Alaskan Native,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,218.3,Male,American Indian and Alaskan Native,T2,36,42.9465,-75.512
+2017,NY,New York,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,118.9,Female,American Indian and Alaskan Native,T2,36,42.9465,-75.512
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,377.3,Female,American Indian and Alaskan Native,T2,40,35.5848,-97.5098
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,235.7,Overall,American Indian and Alaskan Native,T2,41,43.9313,-120.554
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,362.8,Overall,Overall,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,457.9,Male,Overall,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,287.5,Female,Overall,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,362.2,Overall,White,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,458.3,Male,White,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,285.6,Female,White,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,417,Overall,Black,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,525.2,Male,Black,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,336.1,Female,Black,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,182.8,Overall,Hispanic,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,233.4,Male,Hispanic,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,138.9,Female,Hispanic,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,141.3,Overall,Asian and Pacific Islander,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,157.6,Male,Asian and Pacific Islander,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,128.5,Female,Asian and Pacific Islander,T2,39,40.2882,-82.7866
+2017,OH,Ohio,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,116.4,Overall,American Indian and Alaskan Native,T2,39,40.2882,-82.7866
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,291.7,Male,American Indian and Alaskan Native,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,186.9,Female,American Indian and Alaskan Native,T2,41,43.9313,-120.554
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,350.3,Female,Black,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,211.3,Overall,Hispanic,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,270.2,Male,Hispanic,T2,42,40.8749,-77.8022
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,448.4,Overall,Overall,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,545.8,Male,Overall,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,366.2,Female,Overall,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,453,Overall,White,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,549.7,Male,White,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,371.2,Female,White,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,489.7,Overall,Black,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,578.2,Male,Black,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,413.5,Female,Black,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,221.7,Overall,Hispanic,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,287.2,Male,Hispanic,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,159.6,Female,Hispanic,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,227.2,Overall,Asian and Pacific Islander,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,260.6,Male,Asian and Pacific Islander,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,202.3,Female,Asian and Pacific Islander,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,498.1,Overall,American Indian and Alaskan Native,T2,40,35.5848,-97.5098
+2017,OK,Oklahoma,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,649.8,Male,American Indian and Alaskan Native,T2,40,35.5848,-97.5098
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,161.9,Female,Hispanic,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,144.4,Overall,Asian and Pacific Islander,T2,42,40.8749,-77.8022
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,257.3,Overall,Overall,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,326.8,Male,Overall,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,200.2,Female,Overall,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,265.3,Overall,White,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,337.4,Male,White,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,205.9,Female,White,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,274.5,Overall,Black,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,336.4,Male,Black,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,215.3,Female,Black,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,141.1,Overall,Hispanic,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,167.3,Male,Hispanic,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,117.2,Female,Hispanic,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,145.9,Overall,Asian and Pacific Islander,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,206.8,Male,Asian and Pacific Islander,T2,41,43.9313,-120.554
+2017,OR,Oregon,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,106,Female,Asian and Pacific Islander,T2,41,43.9313,-120.554
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,179.3,Male,Asian and Pacific Islander,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,115.4,Female,Asian and Pacific Islander,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,91.8,Overall,American Indian and Alaskan Native,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,341.7,Overall,Overall,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,434.6,Male,Overall,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,269.4,Female,Overall,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,338.6,Overall,White,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,431,Male,White,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,265.9,Female,White,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,443.4,Overall,Black,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,580.3,Male,Black,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,122.3,Male,American Indian and Alaskan Native,T2,42,40.8749,-77.8022
+2017,PA,Pennsylvania,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,42,40.8749,-77.8022
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,407.8,Male,White,T2,45,33.9187,-80.9014
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,216.3,Overall,Overall,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,281.9,Male,Overall,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,164.7,Female,Overall,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,White,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,White,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,White,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Black,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Hispanic,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,72,18.2214,-66.4654
+2017,PR,Puerto Rico,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,72,18.2214,-66.4654
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,303,Overall,Overall,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,391.1,Male,Overall,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,238.2,Female,Overall,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,316.6,Overall,White,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,410.6,Male,White,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,248,Female,White,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,245.9,Overall,Black,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,322.5,Male,Black,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,185.3,Female,Black,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,118.5,Overall,Hispanic,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,139.4,Male,Hispanic,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,98.6,Female,Hispanic,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,154.8,Overall,Asian and Pacific Islander,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,193.7,Male,Asian and Pacific Islander,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,120.6,Female,Asian and Pacific Islander,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,449.7,Overall,American Indian and Alaskan Native,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,44,41.681999999999995,-71.5617
+2017,RI,Rhode Island,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,453.8,Female,American Indian and Alaskan Native,T2,44,41.681999999999995,-71.5617
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,241.8,Female,White,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,395.5,Overall,Black,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,520.8,Male,Black,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,306.9,Female,Black,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,329.5,Overall,Overall,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,423.6,Male,Overall,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,253.8,Female,Overall,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,317.2,Overall,White,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,126.9,Overall,American Indian and Alaskan Native,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,159.3,Male,American Indian and Alaskan Native,T2,45,33.9187,-80.9014
+2017,SC,South Carolina,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,45,33.9187,-80.9014
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,167.1,Overall,Asian and Pacific Islander,T2,47,35.8465,-86.3351
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,297.3,Overall,Overall,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,381.5,Male,Overall,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,226.5,Female,Overall,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,288.9,Overall,White,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,372.6,Male,White,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,218.9,Female,White,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,209.6,Overall,Black,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,285,Male,Black,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,135.8,Overall,Hispanic,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,486.7,Overall,American Indian and Alaskan Native,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,598.7,Male,American Indian and Alaskan Native,T2,46,44.4332,-100.236
+2017,SD,South Dakota,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,389.4,Female,American Indian and Alaskan Native,T2,46,44.4332,-100.236
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,184.5,Male,Asian and Pacific Islander,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,149.9,Female,Asian and Pacific Islander,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,91.6,Overall,American Indian and Alaskan Native,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,129.3,Male,American Indian and Alaskan Native,T2,47,35.8465,-86.3351
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,106.9,Female,American Indian and Alaskan Native,T2,48,31.4906,-99.3517
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,388.4,Overall,Overall,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,493.7,Male,Overall,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,303.8,Female,Overall,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,387.9,Overall,White,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,491.4,Male,White,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,303.2,Female,White,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,443.8,Overall,Black,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,590.9,Male,Black,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,341.7,Female,Black,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,131.7,Overall,Hispanic,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,166.7,Male,Hispanic,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,96.9,Female,Hispanic,T2,47,35.8465,-86.3351
+2017,TN,Tennessee,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,47,35.8465,-86.3351
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,260,Overall,American Indian and Alaskan Native,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,435,Male,American Indian and Alaskan Native,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,148.2,Female,American Indian and Alaskan Native,T2,49,39.3231,-111.676
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,98,Female,Asian and Pacific Islander,T2,51,37.5188,-78.8507
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,327.4,Overall,Overall,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,417,Male,Overall,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,254.5,Female,Overall,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,350.6,Overall,White,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,448.5,Male,White,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,269.3,Female,White,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,423.1,Overall,Black,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,531.9,Male,Black,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,342.1,Female,Black,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,255,Overall,Hispanic,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,326.1,Male,Hispanic,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,197.6,Female,Hispanic,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,154.9,Overall,Asian and Pacific Islander,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,186.5,Male,Asian and Pacific Islander,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,127.6,Female,Asian and Pacific Islander,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,120.8,Overall,American Indian and Alaskan Native,T2,48,31.4906,-99.3517
+2017,TX,Texas,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,134.7,Male,American Indian and Alaskan Native,T2,48,31.4906,-99.3517
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,288.8,Overall,Overall,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,334.3,Male,Overall,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,248.7,Female,Overall,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,298.4,Overall,White,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,343.5,Male,White,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,258.3,Female,White,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,353.6,Overall,Black,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,436.4,Male,Black,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,262.4,Female,Black,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,156.2,Overall,Hispanic,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,180.6,Male,Hispanic,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,134.3,Female,Hispanic,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,193.3,Overall,Asian and Pacific Islander,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,261.6,Male,Asian and Pacific Islander,T2,49,39.3231,-111.676
+2017,UT,Utah,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,142.2,Female,Asian and Pacific Islander,T2,49,39.3231,-111.676
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,292.3,Overall,Overall,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,369.9,Male,Overall,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,230.6,Female,Overall,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,294,Overall,White,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,373.1,Male,White,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,229.4,Female,White,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,364.6,Overall,Black,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,462.7,Male,Black,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,293.5,Female,Black,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,123.1,Overall,Hispanic,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,146.3,Male,Hispanic,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,104.1,Female,Hispanic,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,128.5,Overall,Asian and Pacific Islander,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,168.9,Male,Asian and Pacific Islander,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,167.3,Overall,American Indian and Alaskan Native,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,204.8,Male,American Indian and Alaskan Native,T2,51,37.5188,-78.8507
+2017,VA,Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,137.6,Female,American Indian and Alaskan Native,T2,51,37.5188,-78.8507
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,207.9,Overall,Overall,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,258.1,Male,Overall,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,167.1,Female,Overall,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,White,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,White,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,White,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Black,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Hispanic,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,78,17.9473,-64.8015
+2017,VI,Virgin Islands of the U.S.,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,78,17.9473,-64.8015
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,298.9,Overall,Overall,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,391.6,Male,Overall,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,223.7,Female,Overall,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,302.5,Overall,White,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,396.9,Male,White,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,226.3,Female,White,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,325.7,Overall,Black,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Hispanic,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,50,44.0733,-72.661
+2017,VT,Vermont,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,50,44.0733,-72.661
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,265.3,Overall,Overall,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,343.3,Male,Overall,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,201.3,Female,Overall,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,276.4,Overall,White,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,357.5,Male,White,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,209.3,Female,White,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,298,Overall,Black,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,372.5,Male,Black,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,227.6,Female,Black,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,168.7,Overall,Hispanic,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,207.8,Male,Hispanic,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,133.8,Female,Hispanic,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,148.5,Overall,Asian and Pacific Islander,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,188.6,Male,Asian and Pacific Islander,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,118.9,Female,Asian and Pacific Islander,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,335.3,Overall,American Indian and Alaskan Native,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,452.3,Male,American Indian and Alaskan Native,T2,53,47.378,-120.428
+2017,WA,Washington,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,239.8,Female,American Indian and Alaskan Native,T2,53,47.378,-120.428
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,304.1,Overall,Overall,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,390.5,Male,Overall,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,234.5,Female,Overall,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,301.1,Overall,White,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,387.7,Male,White,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,231.5,Female,White,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,431.4,Overall,Black,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,535.6,Male,Black,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,349.4,Female,Black,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,159.1,Overall,Hispanic,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,194.7,Male,Hispanic,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,124.6,Female,Hispanic,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,170.1,Overall,Asian and Pacific Islander,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,220.6,Male,Asian and Pacific Islander,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,132.3,Female,Asian and Pacific Islander,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,331.2,Overall,American Indian and Alaskan Native,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,507.1,Male,American Indian and Alaskan Native,T2,55,44.6333,-90.0068
+2017,WI,Wisconsin,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,200.2,Female,American Indian and Alaskan Native,T2,55,44.6333,-90.0068
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,374,Overall,Overall,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,457.8,Male,Overall,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,303.2,Female,Overall,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,377.6,Overall,White,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,462.5,Male,White,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,306.2,Female,White,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,385.3,Overall,Black,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,461.1,Male,Black,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,315.5,Female,Black,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,88.3,Overall,Hispanic,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Hispanic,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Hispanic,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,172.7,Overall,Asian and Pacific Islander,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,American Indian and Alaskan Native,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,American Indian and Alaskan Native,T2,54,38.6411,-80.6147
+2017,WV,West Virginia,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,American Indian and Alaskan Native,T2,54,38.6411,-80.6147
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,297.4,Overall,Overall,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,377.8,Male,Overall,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,228.1,Female,Overall,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,304.8,Overall,White,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,388.5,Male,White,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,233,Female,White,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,218.2,Overall,Black,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Black,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Black,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,189.7,Overall,Hispanic,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,235.2,Male,Hispanic,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,145.6,Female,Hispanic,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Overall,Asian and Pacific Islander,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Male,Asian and Pacific Islander,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,,Female,Asian and Pacific Islander,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,313.1,Overall,American Indian and Alaskan Native,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,328,Male,American Indian and Alaskan Native,T2,56,42.9984,-107.552
+2017,WY,Wyoming,State,NVSS,Cardiovascular Diseases,Heart Disease Mortality,291.3,Female,American Indian and Alaskan Native,T2,56,42.9984,-107.552
